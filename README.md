@@ -1,1 +1,6 @@
-# jsPDF-example
+# Vanilla jsPDF
+
+Contains:
+* Page
+* Image
+* Text
